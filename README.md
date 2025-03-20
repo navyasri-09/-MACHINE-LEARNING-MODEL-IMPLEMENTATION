@@ -32,3 +32,4 @@ Error handling and optimization play crucial roles in machine learning. The prog
 In conclusion, implementing a machine learning model in Python is a valuable skill that bridges data analysis, pattern recognition, and predictive analytics. By leveraging ML techniques, this application demonstrates Python's capability in transforming raw data into actionable insights, driving informed decision-making across various domains like healthcare, finance, and environmental science.
 
 ## The Output Of The Task
+![Image](https://github.com/user-attachments/assets/1390d2b8-82af-40ec-a224-4bce15353010)
